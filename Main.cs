@@ -34,7 +34,7 @@ public class SGD285_1
     {
         UserQuote[] userQuotes = new UserQuote[] {
             new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain")
-            // add the next user here using the formula above. 
+            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list. 
             // IMPORTANT: If there is a conflict, you MUST fix it, compile to make sure 
             // your program compiles and runs locally, then push to the git repository on GitHub.
         };
